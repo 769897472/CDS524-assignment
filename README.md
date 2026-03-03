@@ -1,5 +1,8 @@
 # Game_524 - Q-Learning Gunfight (Simplified)
 
+Video Link：
+https://www.bilibili.com/video/BV13jPFzjEdW/
+
 ## Setup
 - Python 3.9+ recommended
 - Install pygame:
